@@ -11,11 +11,11 @@ Intialize the matrix Q and u
 ## Step 2:
 The vector u and e is given by
 
-    ![eqn1](./ex4.jpg)
+![eqn1](./ex4.jpg)
 
-    ![eqn2](./ex6.jpg)
+![eqn2](./ex6.jpg)
 
-    ![eqn3](./ex3.jpg)
+![eqn3](./ex3.jpg)
 
 ## Step 3:
 Obtain the Q matrix   
