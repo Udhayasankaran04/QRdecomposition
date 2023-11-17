@@ -19,11 +19,13 @@ The vector u and e is given by
 
 ## Step 3:
 Obtain the Q matrix   
-    ![eqn4](./ex1.jpg)
+
+![eqn4](./ex1.jpg)
 
 ## Step 4:
 Construct the upper triangular matrix R
-    ![eqn5](./ex2.jpg)
+
+ ![eqn5](./ex2.jpg)
 
 
 
